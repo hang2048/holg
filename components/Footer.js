@@ -14,7 +14,7 @@ const Footer = ({ fullWidth }) => {
       <div className="my-4 text-sm leading-6">
         <div className="flex align-baseline justify-between flex-wrap">
           <p>
-            © {BLOG.author} {from === y || !from ? y : `${from} - ${y}`} ♥期待得到回复的请留下准确邮箱地址♥
+            © {BLOG.author} {from === y || !from ? y : `${from} - ${y}`} ❤
           </p>
           <Vercel />
         </div>
