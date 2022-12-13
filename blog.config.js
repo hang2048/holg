@@ -5,7 +5,7 @@ const BLOG = {
   link: 'https://blog.h-xap.top/',
   description: 'This Gonna be an AweSome-GUY Website.',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'dark', // ['light', 'dark', 'auto'],
+  appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#f5f5dc', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#e3ebff', // use hex value, don't forget '#'
