@@ -93,7 +93,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
                       gradientUnits="userSpaceOnUse"
                       gradientTransform="rotate(45) scale(39.598)"
                     >
-                      <stop stopColor="#FFF6E0" stopOpacity="0.6" />
+                      <stop stopColor="#42e500" stopOpacity="0.8" />
                       <stop offset="1" stopColor="#b4e500" stopOpacity="1" />
                     </radialGradient>
                   </defs>
